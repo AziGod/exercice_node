@@ -1,0 +1,1 @@
+Les données du jour sont: 89, 545, 678, 18485.
